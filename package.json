@@ -1,0 +1,20 @@
+{
+  "name": "ts-seed",
+  "version": "1.0.0",
+  "description": "In this repository we setup our playground to learn about the essential features of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng-practice/ts-seed.git"
+  },
+  "keywords": [],
+  "author": "Gregor Woiwode <gregor.woiwode@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ng-practice/ts-seed/issues"
+  },
+  "homepage": "https://github.com/ng-practice/ts-seed#readme"
+}
