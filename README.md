@@ -1,0 +1,17 @@
+- [ ] Überblick Webpack
+- [x] let
+- [x] const
+- [x] import
+- [x] export
+- [x] class
+- [x] enum
+- [x] template string
+- [x] interface
+- [x] () => vs. function()
+- [x] ...list
+- [x] { id, prop} = obj
+- [x] [ head, tail ] = list
+- [x] tsconfig.json
+- [ ] @types
+- [ ] generics
+- [ ] Auf das Handling vieler Dateien vorbereiten
