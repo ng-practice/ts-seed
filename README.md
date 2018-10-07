@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://co-IT.eu" target="blank"><img src="./assets/logo.png" alt="www.co-IT.eu" width="300"></a>
+</p>
+
 # TypeScript Seed
 
 > https://www.typescriptlang.org/
